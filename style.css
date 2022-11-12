@@ -1,0 +1,56 @@
+.container{
+    margin-bottom: 6rem;
+}
+li{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.halkapink{
+    background: #FEEAE9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 1.5rem 2.5rem;
+}
+.button{
+    border: none;
+    padding: .6rem 1.5rem;
+    color: white;
+    font-size: 1.1rem;
+    background: linear-gradient(45deg, #FF4F95,#FF1570);
+}
+.price{
+    color: #FF1570;
+}
+.categories, .shoes, .bagpack{
+    margin-bottom: 3rem;
+}
+.cat1, .cat2, .cat3{
+    color: aliceblue;
+    border-radius: 1rem;
+    box-shadow: 0 10px 0 -5px #4e056b,
+                      0 20px 0 -10px #ff1af4;
+}
+.cat1{
+    background: linear-gradient(-45deg, #FFA033, #FFCF1A);
+}
+.cat2{
+    background: linear-gradient(-45deg, #FF4F95,#FF1570);
+}
+.cat3{
+    background: linear-gradient(-45deg, #4172FE, #3F07F8);
+}
+.card{
+    box-shadow: 5px 5px 15px rgb(201, 191, 191);
+}
+.contact{
+    height: 40vh;
+}
+.lastbtn{
+    border: none;
+    padding: 0.35rem 1.5rem;
+    color: white;
+    font-size: 1.1rem;
+    background: linear-gradient(45deg, #FF4F95,#FF1570);
+    transform: translateY(-3.5px);
+}
